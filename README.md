@@ -1,4 +1,5 @@
 # dockx
 Automated Docker-compose and Logging for CTF-file with xinetdlog
 
-GIT CLONE AND THEN PUT IN /USR/LOCAL/BIN/dockx
+Save the dockx.sh -> dockx<br>
+Put the dockx executable in /usr/local/bin
